@@ -1,5 +1,5 @@
 export const environment = {
-    rootUrl: 'api.erickfrederick.com',
+    rootUrl: 'api.erickcaldeira.com',
     production: true,
     mocking: true,
 };

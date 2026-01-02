@@ -1,6 +1,7 @@
 {
     "name": "home",
     "version": "2.0.0",
+    "homepage": "https://api.erickcaldeira.com",
     "scripts": {
         "ng": "ng",
         "start": "ng serve --host 0.0.0.0",
@@ -46,6 +47,6 @@
         "typescript": "~4.9.5"
     },
     "engines": {
-        "node": "18.17.1"
+        "node": "20.19"
     }
 }
