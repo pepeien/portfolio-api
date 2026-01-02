@@ -1,4 +1,4 @@
-[![portfolio-api](.github/images/project-thumbnail.png)](https://api.erickcaldeira.com)
+[![portfolio-api](.github/images/project-thumbnail.png)]()
 
 # portfolio-api
 
@@ -52,4 +52,4 @@ Firstly, this project was to only provide [namah](https://github.com/pepeien/nam
 
 ## Documentation
 
-You can reach to the [Developer Portal](https://api.erickcaldeira.com) to a more hands-on driven information.
+You can reach to the [Developer Portal](https://github.com/pepeien/portfolio-api) to a more hands-on driven information.
